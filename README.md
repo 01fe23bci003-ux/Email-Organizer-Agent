@@ -6,10 +6,10 @@ A mock-mode agentic workflow for triaging faculty email and preparing results fo
 
 | Name | USN | Division |
 |---|---|---|
-| Aman Yaligar | 01fe23bci003 | `<Div>` |
-| Mallanagouda P | 01fe24bci402 | `<Div>` |
-| Vinay C | 01fe23bci017 | `<Div>` |
-| Abhay H | 01fe23bci014 | `<Div>` |
+| Aman Yaligar | 01fe23bci003 | `<B Div>` |
+| Mallanagouda P | 01fe24bci402 | `<B Div>` |
+| Vinay C | 01fe23bci017 | `<B Div>` |
+| Abhay H | 01fe23bci014 | `<B Div>` |
 
 ## Quick Links
 
