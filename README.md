@@ -23,18 +23,18 @@ A mock-mode agentic workflow for triaging faculty email and preparing results fo
 
 | No. | Title | Summary |
 |---:|---|---|
-| 1 | [To be added](./Assignments/Assignment-01) | To be added |
-| 2 | To be added | To be added |
-| 3 | To be added | To be added |
-| 4 | To be added | To be added |
-| 5 | To be added | To be added |
-| 6 | To be added | To be added |
-| 7 | To be added | To be added |
-| 8 | To be added | To be added |
-| 9 | To be added | To be added |
-| 10 | To be added | To be added |
-| 11 | To be added | To be added |
-| 12 | To be added | To be added |
+| 1 | [Agent vs Chatbot](./Assignments/Assignment-01) | Study planner revises an existing plan when an exam date changes |
+| 2 | [Tool-Using Agent](./Assignments/Assignment-02) | Error-safe campus sign-up category comparison |
+| 3 | [Skill Creation](./Assignments/Assignment-03) | Reusable research summaries with evidence-aware claims |
+| 4 | [Memory and Retrieval](./Assignments/Assignment-04) | Topic-isolated project memory with a staleness warning |
+| 5 | [MCP-Style Connector](./Assignments/Assignment-05) | Discoverable resources and safe-directory enforcement |
+| 6 | [Personal Agent Runtime](./Assignments/Assignment-06) | Per-session rate limiting and audit-based human escalation |
+| 7 | [Agentic Node Graph](./Assignments/Assignment-07) | Security scan node and bounded builder retry |
+| 8 | [Parallel Swarm](./Assignments/Assignment-08) | Marketing agent, role-based critiques, and budget resolution |
+| 9 | [Deep Research Agent](./Assignments/Assignment-09) | Quality-weighted synthesis with an explicit source conflict |
+| 10 | [Cloud Operations Agent](./Assignments/Assignment-10) | Safe WARN remediation and approval-gated rollback |
+| 11 | [Agentic SDLC Factory](./Assignments/Assignment-11) | Independent story tests catch a deliberate coding defect |
+| 12 | [Safety, Evaluation and Governance](./Assignments/Assignment-12) | Cost controls and a mandatory five-proposal re-evaluation |
 
 ## Project
 
